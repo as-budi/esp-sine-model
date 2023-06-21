@@ -1,3 +1,4 @@
+# making the model using tensorflow, train the model, and then port using everywhereml to esp32
 import math
 import numpy as np
 import tensorflow as tf
